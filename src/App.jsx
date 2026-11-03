@@ -7,7 +7,7 @@ import QuickSearch from './QuickSearch.jsx';
 import MethodExplorer from './MethodExplorer.jsx';
 import Equipment, { Preparation } from './Equipment.jsx';
 import { ui } from './ui.js';
-import { tx } from './i18n.js';
+import { asset, tx } from './i18n.js';
 
 function initialLanguage() {
   try { const saved = localStorage.getItem('lab19-language'); return ['az', 'en', 'ru'].includes(saved) ? saved : 'az'; }
@@ -54,6 +54,7 @@ export default function App() {
 
   useEffect(() => {
     const controller = new AbortController();
+    if (import.meta.env.BASE_URL !== '/') return () => {};
     fetch('/api/content', { signal: controller.signal })
       .then(response => { if (!response.ok) throw new Error('Content unavailable'); return response.json(); })
       .then(data => {
