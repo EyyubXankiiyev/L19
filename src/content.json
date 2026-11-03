@@ -1,0 +1,1067 @@
+{
+  "az": {
+    "institution": "AZƏRBAYCAN RESPUBLİKASI ELM VƏ TƏHSİL NAZİRLİYİ · FİZİKA İNSTİTUTU",
+    "draft": "İLKİN MƏZMUN LAYİHƏSİ",
+    "brand": "Radiasiya kimyası və radiokimya",
+    "navAbout": "Haqqımızda",
+    "navResearch": "Tədqiqatlar",
+    "navMethods": "Metodlar",
+    "navPublications": "Elmi fəaliyyət",
+    "navTeam": "Komanda",
+    "eyebrow": "FİZİKA İNSTİTUTU / LABORATORİYA 19",
+    "title": "Materialları anlamaq.<br><em>Yeni imkanlar</em><br>yaratmaq.",
+    "intro": "Radiasiya Kimyası və Radiokimya Laboratoriyası — polimerlərin, kompozitlərin və funksional materialların radiasiya təsiri altında xassələrini araşdırırıq.",
+    "explore": "Tədqiqatları kəşf edin",
+    "aboutLink": "Laboratoriya haqqında",
+    "figure": "POLİMER QURULUŞU · SXEMATİK İLLÜSTRASİYA",
+    "heroBottom": "RADİASİYA KİMYASI VƏ RADİOKİMYA LABORATORİYASI",
+    "aboutEyebrow": "01 / LABORATORİYA HAQQINDA",
+    "aboutTitle": "Quruluşdan xassələrə.<br>Elmdən tətbiqə.",
+    "aboutText": "Tədqiqatlarımız radiasiya kimyası, polimer materialşünaslığı və funksional kompozitlərin hazırlanmasını birləşdirir.",
+    "aboutText2": "Polimerlərin və elastomerlərin quruluşu ilə xassələri arasındakı əlaqələri, ionlaşdırıcı şüalanmanın materiallara təsirini və yeni tətbiq sahələrini öyrənirik. Sənaye və ekoloji əhəmiyyət daşıyan materialların hazırlanması və qiymətləndirilməsi əsas diqqət sahələrimizdəndir.",
+    "tag1": "Polimer materialşünaslığı",
+    "tag2": "Radiasiya emalı",
+    "tag3": "Funksional kompozitlər",
+    "researchEyebrow": "02 / TƏDQİQAT İSTİQAMƏTLƏRİ",
+    "researchTitle": "Yeni materiallara doğru",
+    "researchIntro": "Materialların modifikasiyasından ətraf mühitin qorunmasına qədər bir-birini tamamlayan elmi istiqamətlər.",
+    "methodsEyebrow": "03 / METODLAR VƏ AVADANLIQLAR",
+    "methodsTitle": "Materiallara<br>daha yaxından baxış",
+    "methodsIntro": "Radiasiya emalı və fiziki-kimyəvi xarakterizasiya üsulları ilə materialların quruluşunu, istilik və mexaniki xassələrini öyrənirik.",
+    "equipmentNote": "Avadanlıq və imkanlar təqdimatın 8–17, 23–24-cü səhifələri əsasında verilir.",
+    "publicationsEyebrow": "04 / ELMİ FƏALİYYƏT",
+    "publicationsTitle": "Tədqiqatdan nəticəyə",
+    "publicationsIntro": "Təqdim olunmuş ilkin məlumat əsasında seçilmiş tədqiqat mövzuları və layihə istiqamətləri.",
+    "results": "Seçilmiş tədqiqatlar",
+    "projects": "Layihələr və patentlər",
+    "papers": "Nəşrlər",
+    "teamEyebrow": "05 / KOMANDA",
+    "teamTitle": "Elmin arxasındakı insanlar",
+    "teamText": "Laboratoriya rəhbəri və əməkdaşların elmi profilləri, tədqiqat istiqamətləri və seçilmiş nəşrləri bu bölmədə təqdim ediləcək.",
+    "teamNote": "Komandanın təsdiqlənmiş siyahısı, elmi dərəcələri və rəsmi fotoları gözlənilir.",
+    "contactEyebrow": "06 / ƏLAQƏ VƏ ƏMƏKDAŞLIQ",
+    "contactTitle": "Yeni tədqiqatlar<br>əməkdaşlıqla başlayır.",
+    "contactText": "Polimerlər, radiasiya kimyası və funksional materiallar üzrə elmi əməkdaşlıq imkanları üçün laboratoriyanın rəsmi əlaqə məlumatları burada yerləşdiriləcək.",
+    "contactNote": "Rəsmi e-poçt, telefon və ünvan əlavə ediləcək.",
+    "footer": "Fizika İnstitutu · Radiasiya Kimyası və Radiokimya Laboratoriyası",
+    "top": "Yuxarı qayıt ↑",
+    "pending": "Təsdiq gözlənilir",
+    "topic": "TƏDQİQAT",
+    "research": [
+      [
+        "Polimerlər və elastomer kompozitlər",
+        "Polimerlərin radiasiya kimyası və radiasiya ilə modifikasiyası; NBR, HNBR və EPDM əsaslı elastomer kompozitlər; polimer nanokompozitlərin hazırlanması və xassələrinin öyrənilməsi."
+      ],
+      [
+        "Şüalanmadan qoruyucu materiallar",
+        "Qurğuşunsuz rentgen və ionlaşdırıcı şüalanma qoruyucu materialları, radiasiyaya davamlı polimer kompozitlər və termolüminessent dozimetriya."
+      ],
+      [
+        "Biopolimerlər və funksional örtüklər",
+        "Xitozan, alginat və digər biopolimerlər əsasında hidrogellər və örtüklər; toxumların biopolimer örtüklərlə işlənməsi."
+      ],
+      [
+        "Ətraf mühit və sorbentlər",
+        "Sorbentlərin hazırlanması və çirkab suların təmizlənməsində tətbiqi; moss-bag üsulu ilə ətraf mühitin biomonitorinqi."
+      ],
+      [
+        "Enerji və radiasiya-katalitik proseslər",
+        "Neftin radiasiya-katalitik çevrilmələri, redoks-aktiv ion mayeləri və enerji saxlama texnologiyaları."
+      ],
+      [
+        "Dozimetriya və radiokimya",
+        "Radiasiya ölçmələri, radionuklid analizi və şüalanma mənbələrinin dozimetrik monitorinqi."
+      ]
+    ],
+    "methods": [
+      [
+        "Co-60 / UV",
+        "Qamma və ultrabənövşəyi şüalanma"
+      ],
+      [
+        "FTIR / XRD",
+        "Spektroskopiya və rentgen difraksiyası"
+      ],
+      [
+        "SEM / EDS",
+        "Elektron mikroskopiya və element analizi"
+      ],
+      [
+        "DSC / TGA",
+        "Termiki analiz üsulları"
+      ],
+      [
+        "Mexanika",
+        "Dartılma və vulkanizasiya xassələri"
+      ],
+      [
+        "Digər üsullar",
+        "DMA · EIS · PALS/DBS · XRF · TL/OSL"
+      ]
+    ],
+    "resultsList": [
+      [
+        "HNBR/bentonit kompozitləri",
+        "Bentonit miqdarının vulkanizasiya, mexaniki xassələr və istilik davamlılığına təsirinin öyrənilməsi."
+      ],
+      [
+        "NBR və qrafen oksid",
+        "Qrafen oksidin mexaniki xassələrə və elastik bərpaya təsirinin qiymətləndirilməsi."
+      ],
+      [
+        "Qurğuşunsuz şüa qoruyucu kompozitlər",
+        "BaSO₄ və Bi₂O₃ dolduruculu sistemlərin şüalanmanı zəiflətmə xassələrinin araşdırılması."
+      ],
+      [
+        "Biopolimer toxum örtükləri",
+        "“Barakatli-95” buğda sortunda cücərmə və ilkin inkişaf göstəriciləri üzrə tədqiqatlar."
+      ],
+      [
+        "Y₂O₃:Eu³⁺ nanohissəcikləri",
+        "Yanma üsulu ilə sintez və quruluş xüsusiyyətlərinin tədqiqi."
+      ],
+      [
+        "Co-60 qurğularının dozimetrik monitorinqi",
+        "Benzol və tsikloheksanın radiolizi əsasında aylıq monitorinq. Təqdimata görə doza gücünün dəyişməsi Co-60 mənbəyinin təbii aktivlik azalması ilə uyğunluq göstərib (səh. 19)."
+      ],
+      [
+        "Radiasiya kimyası və sənaye tətbiqləri",
+        "Dizel yanacağının radiasiya davamlılığı; neft karbohidrogenlərinin çevrilmələri; seolitin sorbsiya tutumu; CdS–ZnS/PP kompozitlərinin dielektrik xassələri və neft sənayesində hava çirklənməsi (səh. 21)."
+      ],
+      [
+        "Bitki sistemlərində radioproteksiya",
+        "Təqdimatda 150 Qr şüalanma və 0,01% ZnIM ilə qarğıdalı toxumlarının cücərməsi 85,0%-dən 93,0%-ə yüksəlir; nəzarət 93,8%-dir. E. Shumilov və b., 2026 preprinti: ilkin, resenziyadan keçməmiş nəticələr (səh. 22)."
+      ]
+    ],
+    "projectsList": [
+      [
+        "AEF · 2024–2026",
+        "Yarım-quraq ərazilərdə toxum örtmə texnologiyası. Davam edir · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "KOBİA V · 2024–2025",
+        "Tullantı yağlarından bitum üçün polimer aşqarı. Tamamlanıb · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "KOBİA VI · 2024–2025",
+        "Aqrohidrogel: suya qənaət və toxum texnologiyası. Tamamlanıb · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "KOBİA VII · 2025–2026",
+        "AGROBIOPACK: aqro-qida tullantılarından qablaşdırma. Tamamlanıb · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "ADNSU · 2025–2026",
+        "Fenotiazin əsaslı redoks-aktiv ion mayeləri. Davam edir · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "BP Azərbaycan · 2026–2027",
+        "Redoks-aktiv ion mayeləri və enerji saxlanması. Davam edir · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "IAEA CRP · 2025–2027",
+        "Mədən çirkab sularının təmizlənməsi — Advanced Strategies for Optimizing Mining Wastewater Remediation. Davam edir · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "FIRAT BAP · 2025–2026",
+        "Qiymətli metalların tullantılardan bərpası: liç prosesləri və innovativ üyütmə mühitləri. Davam edir · 12 oktyabr 2026 təqdimatına əsasən."
+      ],
+      [
+        "Patent: İ 2024 0021",
+        "Vulkanlaşmış elastomer qarışığı"
+      ],
+      [
+        "Patent: İ 2024 0022",
+        "İzopren kauçuku əsasında elastomer qarışığı"
+      ],
+      [
+        "Patent: İ 2024 0046",
+        "Butadien-nitril kauçuku əsasında elastomer qarışığı"
+      ],
+      [
+        "Patent: İ 2021 0002",
+        "Xloropren kauçuku əsasında elastomer qarışığı"
+      ],
+      [
+        "Patent: № 049754",
+        "Dihidropirimidinazaya bənzər zülal 2-nin heyvanların beyninə yeridilməsinə əsaslanan radioproteksiya üsulu. Avrasiya patenti; təqdimatda 2023 tarixi göstərilir."
+      ],
+      [
+        "Patent",
+        "Nüvə materialı tullantıları ilə çirklənmiş torpaqların dezaktivasiya üsulu. Təqdimatda patent nömrəsi göstərilməyib."
+      ]
+    ],
+    "papersList": [
+      [
+        "Co-60 dozimetrik monitorinqi — təqdimatda istinad",
+        "Kh. F. Mammadov et al. · Radiation Physics and Chemistry · 2026 · DOI: 10.1016/j.radphyschem.2026.114064. Tam məqalə başlığı təqdimatda verilməyib (səh. 19)."
+      ]
+    ],
+    "resultNote": "Tədqiqat təsvirləri ilkin materiala əsaslanır; nəticələr müvafiq məqalə və patentlərlə tutuşdurulmalıdır.",
+    "news": [],
+    "sourceNote": "Mənbə: “Laboratoriya cihazları” təqdimatı, 12 oktyabr 2026. Göstəricilər və layihə statusları təqdimat tarixinə aiddir.",
+    "equipment": [
+      {
+        "id": "equipment-1",
+        "name": "ZEISS SIGMA VP",
+        "description": "SEM: səthin morfologiyası və mikrostrukturun tədqiqi.",
+        "pages": [
+          8,
+          24
+        ]
+      },
+      {
+        "id": "equipment-2",
+        "name": "Rigaku ZSX Primus IV",
+        "description": "XRF: nümunələrin element tərkibinin keyfiyyət və kəmiyyət analizi.",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "equipment-3",
+        "name": "DTA / STA",
+        "description": "Termiki sabitlik və istilik effektlərinin analizi.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-4",
+        "name": "CANBERRA-1125",
+        "description": "Qamma-spektrometriya: radionuklidlərin identifikasiyası və aktivliyinin ölçülməsi.",
+        "pages": [
+          8,
+          23
+        ]
+      },
+      {
+        "id": "equipment-5",
+        "name": "Electronic Tensile",
+        "description": "Maksimum dartılma qüvvəsi, dartılma möhkəmliyi və nisbi uzanmanın ölçülməsi.",
+        "pages": [
+          8,
+          17
+        ]
+      },
+      {
+        "id": "equipment-6",
+        "name": "MULTISKAN",
+        "description": "Mikroplitəli spektrofotometriya ilə optik absorbsiya ölçmələri.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-7",
+        "name": "Vakuum nasosu və ultrasəs qarışdırıcı",
+        "description": "Sintez və nümunə hazırlığı üçün köməkçi avadanlıqlar.",
+        "pages": [
+          12
+        ]
+      }
+    ],
+    "preparation": "Kimyəvi sintez və modifikasiya; qarışdırma, qurutma, sentrifuqada ayırma; polimer və elastomer kompozitlərin preslənməsi və nümunələrin formalaşdırılması (səh. 11–14).",
+    "teamDescription": "Laboratoriya müdiri: Rəna Xankişiyeva. Ümumi heyət: 16 nəfər — 12 elmi və 4 texniki əməkdaş.",
+    "staff": [
+      [
+        "Laboratoriya müdiri",
+        1
+      ],
+      [
+        "Baş elmi işçi",
+        2
+      ],
+      [
+        "Aparıcı elmi işçi",
+        3
+      ],
+      [
+        "Böyük elmi işçi",
+        2
+      ],
+      [
+        "Elmi işçi",
+        1
+      ],
+      [
+        "Kiçik elmi işçi",
+        3
+      ],
+      [
+        "Baş texnoloq",
+        1
+      ],
+      [
+        "Böyük laborant",
+        2
+      ],
+      [
+        "Mühəndis",
+        1
+      ]
+    ],
+    "metrics": [
+      [
+        "15",
+        "Beynəlxalq məqalə · 2026-cı ilin I yarımili"
+      ],
+      [
+        "9",
+        "Q1–Q2 nəşr · yarımillik hesabat"
+      ],
+      [
+        "8",
+        "Qrant layihəsi · 5 davam edir, 3 tamamlanıb"
+      ],
+      [
+        "6",
+        "Patent və ixtira · 2020–2025 siyahısı"
+      ]
+    ],
+    "patentNote": "Təqdimatda 5 yerli patent, 1 Avrasiya patenti və ayrıca 2 patent ərizəsi göstərilir (səh. 5).",
+    "partnerships": [
+      [
+        "Norm Sement",
+        "XRF analizi, sement və xammalın kimyəvi tərkibi, keyfiyyətə nəzarət."
+      ],
+      [
+        "Almet",
+        "XRF ilə metal və xammal nümunələrinin element analizi və nəticələrin hesabatlandırılması."
+      ],
+      [
+        "Baku Steel Company",
+        "Polad və xammalın XRF analizi, element tərkibinin monitorinqi və analitik dəstək."
+      ],
+      [
+        "BP Azərbaycan",
+        "Redoks-aktiv ion mayeləri və yeni nəsil enerji saxlama texnologiyaları üzrə tədqiqat mərkəzinin yaradılması üçün qəbul edilmiş layihə."
+      ]
+    ],
+    "opportunities": [
+      [
+        "Birgə sintez və analiz",
+        "Laboratoriyalararası nanomaterial sintezi, kimyəvi modifikasiya və sənaye üçün analitik xidmətlərin genişləndirilməsi."
+      ],
+      [
+        "Dozimetrik monitorinq",
+        "XRF, XRD və qamma-şüalandırma qurğularının monitorinq metodikalarının inkişafı."
+      ],
+      [
+        "Funksional prototiplər",
+        "Sızdırmazlıq elementləri, vibrasiya izolyasiyası materialları, xüsusi formalı rezin nümunələr, qoruyucu kompozitlər və biopolimer örtüklər üzrə pilot sınaqlar."
+      ]
+    ]
+  },
+  "en": {
+    "institution": "MINISTRY OF SCIENCE AND EDUCATION OF THE REPUBLIC OF AZERBAIJAN · INSTITUTE OF PHYSICS",
+    "draft": "CONTENT DRAFT",
+    "brand": "Radiation chemistry & radiochemistry",
+    "navAbout": "About",
+    "navResearch": "Research",
+    "navMethods": "Methods",
+    "navPublications": "Scientific work",
+    "navTeam": "Team",
+    "eyebrow": "INSTITUTE OF PHYSICS / LABORATORY 19",
+    "title": "Understanding materials.<br>Creating <em>new possibilities.</em>",
+    "intro": "Laboratory of Radiation Chemistry and Radiochemistry — exploring the effects of radiation on polymers, composites and functional materials.",
+    "explore": "Explore our research",
+    "aboutLink": "About the laboratory",
+    "figure": "POLYMER STRUCTURE · SCHEMATIC ILLUSTRATION",
+    "heroBottom": "LABORATORY OF RADIATION CHEMISTRY AND RADIOCHEMISTRY",
+    "aboutEyebrow": "01 / ABOUT THE LABORATORY",
+    "aboutTitle": "From structure to properties.<br>From science to application.",
+    "aboutText": "Our research brings together radiation chemistry, polymer materials science and the development of functional composites.",
+    "aboutText2": "We study structure–property relationships in polymers and elastomers, the effects of ionizing radiation on materials, and new applications. Our work focuses on developing and evaluating materials with industrial and environmental relevance.",
+    "tag1": "Polymer materials science",
+    "tag2": "Radiation processing",
+    "tag3": "Functional composites",
+    "researchEyebrow": "02 / RESEARCH AREAS",
+    "researchTitle": "Towards new materials",
+    "researchIntro": "Connected research areas, from material modification to environmental protection.",
+    "methodsEyebrow": "03 / METHODS & EQUIPMENT",
+    "methodsTitle": "A closer look<br>at materials",
+    "methodsIntro": "Radiation processing and physicochemical characterization help us study material structure and thermal and mechanical properties.",
+    "equipmentNote": "Equipment and capabilities are described on pages 8–17 and 23–24 of the presentation.",
+    "publicationsEyebrow": "04 / SCIENTIFIC WORK",
+    "publicationsTitle": "From research to results",
+    "publicationsIntro": "Selected research topics and project directions based on the supplied preliminary material.",
+    "results": "Selected research",
+    "projects": "Projects & patents",
+    "papers": "Publications",
+    "teamEyebrow": "05 / OUR TEAM",
+    "teamTitle": "The people behind the science",
+    "teamText": "Profiles of the laboratory head and researchers, their research interests and selected publications will be presented here.",
+    "teamNote": "The confirmed staff list, academic qualifications and official photographs are awaiting submission.",
+    "contactEyebrow": "06 / CONTACT & COLLABORATION",
+    "contactTitle": "New research<br>starts with collaboration.",
+    "contactText": "Official laboratory contact details for scientific collaboration in polymers, radiation chemistry and functional materials will be provided here.",
+    "contactNote": "Official email, phone number and address to be added.",
+    "footer": "Institute of Physics · Laboratory of Radiation Chemistry and Radiochemistry",
+    "top": "Back to top ↑",
+    "pending": "Awaiting verification",
+    "topic": "RESEARCH",
+    "research": [
+      [
+        "Polymers & elastomer composites",
+        "Radiation chemistry and radiation modification of polymers; NBR, HNBR and EPDM elastomer composites; preparation and characterization of polymer nanocomposites."
+      ],
+      [
+        "Radiation shielding materials",
+        "Lead-free X-ray and ionizing radiation shielding materials, radiation-resistant polymer composites and thermoluminescent dosimetry."
+      ],
+      [
+        "Biopolymers & functional coatings",
+        "Hydrogels and coatings based on chitosan, alginate and other biopolymers; biopolymer coatings for seeds."
+      ],
+      [
+        "Environment & sorbents",
+        "Development of sorbents for wastewater treatment and environmental biomonitoring using the moss-bag method."
+      ],
+      [
+        "Energy & radiation-catalytic processes",
+        "Radiation-catalytic conversion of petroleum, redox-active ionic liquids and energy storage technologies."
+      ],
+      [
+        "Dosimetry and radiochemistry",
+        "Radiation measurements, radionuclide analysis and dosimetric monitoring of radiation sources."
+      ]
+    ],
+    "methods": [
+      [
+        "Co-60 / UV",
+        "Gamma and ultraviolet irradiation"
+      ],
+      [
+        "FTIR / XRD",
+        "Spectroscopy and X-ray diffraction"
+      ],
+      [
+        "SEM / EDS",
+        "Electron microscopy and elemental analysis"
+      ],
+      [
+        "DSC / TGA",
+        "Thermal analysis methods"
+      ],
+      [
+        "Mechanics",
+        "Tensile and vulcanization properties"
+      ],
+      [
+        "Other methods",
+        "DMA · EIS · PALS/DBS · XRF · TL/OSL"
+      ]
+    ],
+    "resultsList": [
+      [
+        "HNBR/bentonite composites",
+        "Studying the effects of bentonite content on vulcanization, mechanical properties and thermal stability."
+      ],
+      [
+        "NBR and graphene oxide",
+        "Evaluating the effects of graphene oxide on mechanical properties and elastic recovery."
+      ],
+      [
+        "Lead-free shielding composites",
+        "Investigating radiation attenuation in systems containing BaSO₄ and Bi₂O₃ fillers."
+      ],
+      [
+        "Biopolymer seed coatings",
+        "Research on germination and early growth of the “Barakatli-95” wheat variety."
+      ],
+      [
+        "Y₂O₃:Eu³⁺ nanoparticles",
+        "Combustion synthesis and investigation of structural characteristics."
+      ],
+      [
+        "Dosimetric monitoring of Co-60 facilities",
+        "Monthly monitoring using benzene and cyclohexane radiolysis. The presentation reports dose-rate changes consistent with the natural activity decay of the Co-60 source (p. 19)."
+      ],
+      [
+        "Radiation chemistry and industrial applications",
+        "Radiation resistance of diesel fuel; petroleum hydrocarbon transformations; zeolite sorption capacity; dielectric properties of CdS–ZnS/PP composites; and air pollution in the petroleum industry (p. 21)."
+      ],
+      [
+        "Radioprotection in plant systems",
+        "The presentation reports maize germination increasing from 85.0% to 93.0% with 150 Gy irradiation and 0.01% ZnIM, against 93.8% for the control. E. Shumilov et al., 2026 preprint: preliminary results, not peer reviewed (p. 22)."
+      ]
+    ],
+    "projectsList": [
+      [
+        "AEF · 2024–2026",
+        "Seed-coating technology for semi-arid areas. Ongoing · as reported on 12 October 2026."
+      ],
+      [
+        "KOBİA V · 2024–2025",
+        "Polymer additive for bitumen from waste oils. Completed · as reported on 12 October 2026."
+      ],
+      [
+        "KOBİA VI · 2024–2025",
+        "Agrohydrogel: water conservation and seed technology. Completed · as reported on 12 October 2026."
+      ],
+      [
+        "KOBİA VII · 2025–2026",
+        "AGROBIOPACK: packaging from agri-food waste. Completed · as reported on 12 October 2026."
+      ],
+      [
+        "ADNSU · 2025–2026",
+        "Phenothiazine-based redox-active ionic liquids. Ongoing · as reported on 12 October 2026."
+      ],
+      [
+        "BP Azərbaycan · 2026–2027",
+        "Redox-active ionic liquids and energy storage. Ongoing · as reported on 12 October 2026."
+      ],
+      [
+        "IAEA CRP · 2025–2027",
+        "Advanced Strategies for Optimizing Mining Wastewater Remediation. Ongoing · as reported on 12 October 2026."
+      ],
+      [
+        "FIRAT BAP · 2025–2026",
+        "Recovery of valuable metals from waste: leaching processes and innovative grinding media. Ongoing · as reported on 12 October 2026."
+      ],
+      [
+        "Patent: İ 2024 0021",
+        "Vulcanized elastomer mixture"
+      ],
+      [
+        "Patent: İ 2024 0022",
+        "Isoprene-rubber-based elastomer mixture"
+      ],
+      [
+        "Patent: İ 2024 0046",
+        "Nitrile-butadiene-rubber-based elastomer mixture"
+      ],
+      [
+        "Patent: İ 2021 0002",
+        "Chloroprene-rubber-based elastomer mixture"
+      ],
+      [
+        "Patent: № 049754",
+        "Radioprotection method based on administering dihydropyrimidinase-like protein 2 into animal brains. Eurasian patent; the presentation lists 2023."
+      ],
+      [
+        "Patent",
+        "Decontamination method for soils polluted with nuclear-material waste. No patent number is provided in the presentation."
+      ]
+    ],
+    "papersList": [
+      [
+        "Co-60 dosimetric monitoring — presentation reference",
+        "Kh. F. Mammadov et al. · Radiation Physics and Chemistry · 2026 · DOI: 10.1016/j.radphyschem.2026.114064. The full article title is not supplied in the presentation (p. 19)."
+      ]
+    ],
+    "resultNote": "Research descriptions are based on preliminary material; findings require cross-checking against the relevant papers and patents.",
+    "news": [],
+    "sourceNote": "Source: “Laboratoriya cihazları” presentation, 12 October 2026. Figures and project statuses reflect the presentation date.",
+    "equipment": [
+      {
+        "id": "equipment-1",
+        "name": "ZEISS SIGMA VP",
+        "description": "SEM: investigation of surface morphology and microstructure.",
+        "pages": [
+          8,
+          24
+        ]
+      },
+      {
+        "id": "equipment-2",
+        "name": "Rigaku ZSX Primus IV",
+        "description": "XRF: qualitative and quantitative analysis of sample elemental composition.",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "equipment-3",
+        "name": "DTA / STA",
+        "description": "Analysis of thermal stability and thermal effects.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-4",
+        "name": "CANBERRA-1125",
+        "description": "Gamma spectrometry: identification of radionuclides and measurement of their activity.",
+        "pages": [
+          8,
+          23
+        ]
+      },
+      {
+        "id": "equipment-5",
+        "name": "Electronic Tensile",
+        "description": "Measurement of maximum tensile force, tensile strength and elongation.",
+        "pages": [
+          8,
+          17
+        ]
+      },
+      {
+        "id": "equipment-6",
+        "name": "MULTISKAN",
+        "description": "Optical absorbance measurements using microplate spectrophotometry.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-7",
+        "name": "Vacuum pump and ultrasonic mixer",
+        "description": "Supporting equipment for synthesis and sample preparation.",
+        "pages": [
+          12
+        ]
+      }
+    ],
+    "preparation": "Chemical synthesis and modification; mixing, drying and centrifugal separation; pressing and shaping polymer and elastomer composite samples (pp. 11–14).",
+    "teamDescription": "Laboratory head: Rəna Xankişiyeva. Total staff: 16 — 12 scientific and 4 technical personnel.",
+    "staff": [
+      [
+        "Laboratory head",
+        1
+      ],
+      [
+        "Chief researcher",
+        2
+      ],
+      [
+        "Leading researcher",
+        3
+      ],
+      [
+        "Senior researcher",
+        2
+      ],
+      [
+        "Researcher",
+        1
+      ],
+      [
+        "Junior researcher",
+        3
+      ],
+      [
+        "Chief technologist",
+        1
+      ],
+      [
+        "Senior laboratory assistant",
+        2
+      ],
+      [
+        "Engineer",
+        1
+      ]
+    ],
+    "metrics": [
+      [
+        "15",
+        "International articles · first half of 2026"
+      ],
+      [
+        "9",
+        "Q1–Q2 publications · half-year report"
+      ],
+      [
+        "8",
+        "Grant projects · 5 ongoing, 3 completed"
+      ],
+      [
+        "6",
+        "Patents and inventions · 2020–2025 list"
+      ]
+    ],
+    "patentNote": "The presentation reports 5 domestic patents, 1 Eurasian patent and 2 additional patent applications (p. 5).",
+    "partnerships": [
+      [
+        "Norm Sement",
+        "XRF analysis, chemical composition of cement and raw materials, and quality control."
+      ],
+      [
+        "Almet",
+        "XRF elemental analysis of metals and raw materials, with reporting of results."
+      ],
+      [
+        "Baku Steel Company",
+        "XRF analysis of steel and raw materials, elemental monitoring and analytical support."
+      ],
+      [
+        "BP Azerbaijan",
+        "Accepted project to establish a research centre for redox-active ionic liquids and next-generation energy storage technologies."
+      ]
+    ],
+    "opportunities": [
+      [
+        "Collaborative synthesis and analysis",
+        "Inter-laboratory nanomaterial synthesis, chemical modification and expansion of industrial analytical services."
+      ],
+      [
+        "Dosimetric monitoring",
+        "Development of monitoring methods for XRF, XRD and gamma-irradiation equipment."
+      ],
+      [
+        "Functional prototypes",
+        "Pilot testing of seals, vibration-isolation materials, shaped rubber samples, protective composites and biopolymer coatings."
+      ]
+    ]
+  },
+  "ru": {
+    "institution": "Министерство науки и образования Азербайджанской Республики · Институт физики",
+    "draft": "ЧЕРНОВИК СОДЕРЖАНИЯ",
+    "brand": "Радиационная химия и радиохимия",
+    "navAbout": "О лаборатории",
+    "navResearch": "Исследования",
+    "navMethods": "Методы",
+    "navPublications": "Научная работа",
+    "navTeam": "Команда",
+    "eyebrow": "ИНСТИТУТ ФИЗИКИ / ЛАБОРАТОРИЯ 19",
+    "title": "Изучаем материалы.<br>Открываем <em>новые возможности.</em>",
+    "intro": "Лаборатория радиационной химии и радиохимии изучает воздействие радиации на полимеры, композиты и функциональные материалы.",
+    "explore": "Наши исследования",
+    "aboutLink": "О лаборатории",
+    "figure": "СТРУКТУРА ПОЛИМЕРА · СХЕМАТИЧЕСКАЯ ИЛЛЮСТРАЦИЯ",
+    "heroBottom": "ЛАБОРАТОРИЯ РАДИАЦИОННОЙ ХИМИИ И РАДИОХИМИИ",
+    "aboutEyebrow": "01 / О ЛАБОРАТОРИИ",
+    "aboutTitle": "От структуры к свойствам.<br>От науки к применению.",
+    "aboutText": "Наши исследования объединяют радиационную химию, полимерное материаловедение и разработку функциональных композитов.",
+    "aboutText2": "Мы изучаем взаимосвязь структуры и свойств полимеров и эластомеров, воздействие ионизирующего излучения на материалы и новые области их применения. Особое внимание уделяем разработке и оценке материалов для промышленности и решения экологических задач.",
+    "tag1": "Полимерное материаловедение",
+    "tag2": "Радиационная обработка",
+    "tag3": "Функциональные композиты",
+    "researchEyebrow": "02 / НАПРАВЛЕНИЯ ИССЛЕДОВАНИЙ",
+    "researchTitle": "На пути к новым материалам",
+    "researchIntro": "Связанные направления исследований — от модификации материалов до защиты окружающей среды.",
+    "methodsEyebrow": "03 / МЕТОДЫ И ОБОРУДОВАНИЕ",
+    "methodsTitle": "Изучаем<br>материалы",
+    "methodsIntro": "Радиационная обработка и физико-химическая характеризация помогают изучать структуру, термические и механические свойства материалов.",
+    "equipmentNote": "Сведения об оборудовании и возможностях приведены на страницах 8–17 и 23–24 презентации.",
+    "publicationsEyebrow": "04 / НАУЧНАЯ ДЕЯТЕЛЬНОСТЬ",
+    "publicationsTitle": "От исследований к результатам",
+    "publicationsIntro": "Избранные темы исследований и направления проектов по предоставленным предварительным материалам.",
+    "results": "Избранные исследования",
+    "projects": "Проекты и патенты",
+    "papers": "Публикации",
+    "teamEyebrow": "05 / НАША КОМАНДА",
+    "teamTitle": "Люди, стоящие за наукой",
+    "teamText": "Здесь будут представлены профили руководителя и сотрудников лаборатории, научные интересы и избранные публикации.",
+    "teamNote": "Ожидаются подтверждённый список сотрудников, сведения об учёных степенях и официальные фотографии.",
+    "contactEyebrow": "06 / КОНТАКТЫ И СОТРУДНИЧЕСТВО",
+    "contactTitle": "Новые исследования<br>начинаются с сотрудничества.",
+    "contactText": "Здесь будут размещены официальные контакты лаборатории для научного сотрудничества в области полимеров, радиационной химии и функциональных материалов.",
+    "contactNote": "Официальные электронная почта, телефон и адрес будут добавлены после подтверждения.",
+    "footer": "Институт физики · Лаборатория радиационной химии и радиохимии",
+    "top": "Наверх ↑",
+    "pending": "Ожидает проверки",
+    "topic": "ИССЛЕДОВАНИЕ",
+    "research": [
+      [
+        "Полимеры и эластомерные композиты",
+        "Радиационная химия и модификация полимеров; композиты на основе эластомеров NBR, HNBR и EPDM; получение и характеризация полимерных нанокомпозитов."
+      ],
+      [
+        "Материалы для радиационной защиты",
+        "Безсвинцовые материалы для защиты от рентгеновского и ионизирующего излучения, радиационно-стойкие полимерные композиты и термолюминесцентная дозиметрия."
+      ],
+      [
+        "Биополимеры и функциональные покрытия",
+        "Гидрогели и покрытия на основе хитозана, альгината и других биополимеров; биополимерные покрытия для обработки семян."
+      ],
+      [
+        "Окружающая среда и сорбенты",
+        "Разработка сорбентов для очистки сточных вод и экологический биомониторинг методом moss-bag."
+      ],
+      [
+        "Энергетика и радиационно-каталитические процессы",
+        "Радиационно-каталитическая переработка нефти, редокс-активные ионные жидкости и технологии хранения энергии."
+      ],
+      [
+        "Дозиметрия и радиохимия",
+        "Измерение радиации, анализ радионуклидов и дозиметрический мониторинг источников излучения."
+      ]
+    ],
+    "methods": [
+      [
+        "Co-60 / УФ",
+        "Гамма- и ультрафиолетовое облучение"
+      ],
+      [
+        "ИК-Фурье / РФА",
+        "Спектроскопия и рентгеновская дифракция"
+      ],
+      [
+        "СЭМ / ЭДС",
+        "Электронная микроскопия и элементный анализ"
+      ],
+      [
+        "ДСК / ТГА",
+        "Методы термического анализа"
+      ],
+      [
+        "Механические испытания",
+        "Испытания на растяжение и вулканизация"
+      ],
+      [
+        "Другие методы",
+        "ДМА · ЭИС · ПАС/ОПС · РФА · ТЛ/ОСЛ"
+      ]
+    ],
+    "resultsList": [
+      [
+        "Композиты HNBR/бентонит",
+        "Изучение влияния содержания бентонита на вулканизацию, механические свойства и термическую стабильность."
+      ],
+      [
+        "NBR и оксид графена",
+        "Оценка влияния оксида графена на механические свойства и упругое восстановление."
+      ],
+      [
+        "Безсвинцовые радиационно-защитные композиты",
+        "Исследование ослабления излучения композитами с наполнителями BaSO₄ и Bi₂O₃."
+      ],
+      [
+        "Биополимерные покрытия семян",
+        "Изучение всхожести и раннего роста пшеницы сорта «Баракатли-95»."
+      ],
+      [
+        "Наночастицы Y₂O₃:Eu³⁺",
+        "Синтез методом горения и исследование структурных характеристик."
+      ],
+      [
+        "Дозиметрический мониторинг установок Co-60",
+        "Ежемесячный мониторинг с использованием радиолиза бензола и циклогексана. В презентации сообщается об изменении мощности дозы, соответствующем естественному распаду источника Co-60 (стр. 19)."
+      ],
+      [
+        "Радиационная химия и промышленное применение",
+        "Радиационная стойкость дизельного топлива; превращения углеводородов нефти; сорбционная способность цеолитов; диэлектрические свойства композитов CdS–ZnS/PP; загрязнение воздуха в нефтяной промышленности (стр. 21)."
+      ],
+      [
+        "Радиозащита растений",
+        "В презентации сообщается, что при облучении 150 Гр и обработке 0,01% ZnIM всхожесть кукурузы выросла с 85,0% до 93,0%; контроль — 93,8%. E. Shumilov и соавт., препринт 2026 года: предварительные результаты, не прошедшие рецензирование (стр. 22)."
+      ]
+    ],
+    "projectsList": [
+      [
+        "AEF · 2024–2026",
+        "Технология покрытия семян для засушливых регионов. В работе · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "KOBİA V · 2024–2025",
+        "Полимерная добавка для битума из отработанных масел. Завершён · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "KOBİA VI · 2024–2025",
+        "Агро-гидрогель: сохранение воды и технология обработки семян. Завершён · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "KOBİA VII · 2025–2026",
+        "AGROBIOPACK: упаковка из отходов агропродовольственного производства. Завершён · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "ADNSU · 2025–2026",
+        "Редокс-активные ионные жидкости на основе фенотиазина. В работе · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "BP Azərbaycan · 2026–2027",
+        "Редокс-активные ионные жидкости и хранение энергии. В работе · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "МАГАТЭ CRP · 2025–2027",
+        "Современные стратегии очистки шахтных сточных вод. В работе · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "FIRAT BAP · 2025–2026",
+        "Извлечение ценных металлов из отходов: процессы выщелачивания и инновационные мелющие тела. В работе · по состоянию на 12 октября 2026 года."
+      ],
+      [
+        "Патент: İ 2024 0021",
+        "Вулканизированная эластомерная смесь."
+      ],
+      [
+        "Патент: İ 2024 0022",
+        "Эластомерная смесь на основе изопренового каучука."
+      ],
+      [
+        "Патент: İ 2024 0046",
+        "Эластомерная смесь на основе бутадиен-нитрильного каучука."
+      ],
+      [
+        "Патент: İ 2021 0002",
+        "Эластомерная смесь на основе хлоропренового каучука."
+      ],
+      [
+        "Патент: № 049754",
+        "Способ радиозащиты на основе введения белка dihydropyrimidinase-like 2 в мозг животных. Евразийский патент; в презентации указан 2023 год."
+      ],
+      [
+        "Патент",
+        "Способ дезактивации почв, загрязнённых отходами ядерных материалов. В презентации номер патента не указан."
+      ]
+    ],
+    "papersList": [
+      [
+        "Дозиметрический мониторинг Co-60 — ссылка в презентации",
+        "Kh. F. Mammadov и соавт. · Radiation Physics and Chemistry · 2026 · DOI: 10.1016/j.radphyschem.2026.114064. Полное название статьи в презентации не приведено (стр. 19)."
+      ]
+    ],
+    "news": [],
+    "resultNote": "Описания исследований основаны на предварительных материалах; результаты необходимо сверить с соответствующими публикациями и патентами.",
+    "sourceNote": "Источник: презентация «Laboratoriya cihazları», 12 октября 2026 года. Показатели и статусы проектов приведены на дату презентации.",
+    "equipment": [
+      {
+        "id": "equipment-1",
+        "name": "ZEISS SIGMA VP",
+        "description": "СЭМ: исследование морфологии поверхности и микроструктуры.",
+        "pages": [
+          8,
+          24
+        ]
+      },
+      {
+        "id": "equipment-2",
+        "name": "Rigaku ZSX Primus IV",
+        "description": "РФА: качественный и количественный анализ элементного состава образцов.",
+        "pages": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "equipment-3",
+        "name": "DTA / STA",
+        "description": "Анализ термической стабильности и тепловых эффектов.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-4",
+        "name": "CANBERRA-1125",
+        "description": "Гамма-спектрометрия: идентификация радионуклидов и измерение их активности.",
+        "pages": [
+          8,
+          23
+        ]
+      },
+      {
+        "id": "equipment-5",
+        "name": "Electronic Tensile",
+        "description": "Измерение максимальной силы растяжения, прочности на разрыв и удлинения.",
+        "pages": [
+          8,
+          17
+        ]
+      },
+      {
+        "id": "equipment-6",
+        "name": "MULTISKAN",
+        "description": "Измерение оптического поглощения методом микропланшетной спектрофотометрии.",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "equipment-7",
+        "name": "Вакуумный насос и ультразвуковой смеситель",
+        "description": "Вспомогательное оборудование для синтеза и подготовки образцов.",
+        "pages": [
+          12
+        ]
+      }
+    ],
+    "preparation": "Химический синтез и модификация; смешивание, сушка и разделение на центрифуге; прессование и формование образцов полимерных и эластомерных композитов (стр. 11–14).",
+    "teamDescription": "Руководитель лаборатории: Рена Ханкишиева. Всего сотрудников: 16 — 12 научных и 4 технических специалиста.",
+    "staff": [
+      [
+        "Руководитель лаборатории",
+        1
+      ],
+      [
+        "Главный научный сотрудник",
+        2
+      ],
+      [
+        "Ведущий научный сотрудник",
+        3
+      ],
+      [
+        "Старший научный сотрудник",
+        2
+      ],
+      [
+        "Научный сотрудник",
+        1
+      ],
+      [
+        "Младший научный сотрудник",
+        3
+      ],
+      [
+        "Главный технолог",
+        1
+      ],
+      [
+        "Старший лаборант",
+        2
+      ],
+      [
+        "Инженер",
+        1
+      ]
+    ],
+    "metrics": [
+      [
+        "15",
+        "Международных статей · первое полугодие 2026"
+      ],
+      [
+        "9",
+        "Публикаций Q1–Q2 · полугодовой отчёт"
+      ],
+      [
+        "8",
+        "Грантовых проектов · 5 текущих, 3 завершённых"
+      ],
+      [
+        "6",
+        "Патентов и изобретений · список за 2020–2025"
+      ]
+    ],
+    "patentNote": "В презентации указаны 5 национальных патентов, 1 евразийский патент и 2 дополнительные патентные заявки (стр. 5).",
+    "partnerships": [
+      [
+        "Norm Sement",
+        "РФА-анализ, химический состав цемента и сырья, контроль качества."
+      ],
+      [
+        "Almet",
+        "Элементный анализ металлов и сырья методом РФА с оформлением результатов."
+      ],
+      [
+        "Baku Steel Company",
+        "РФА-анализ стали и сырья, мониторинг элементного состава и аналитическая поддержка."
+      ],
+      [
+        "BP Azerbaijan",
+        "Принятый проект по созданию исследовательского центра редокс-активных ионных жидкостей и технологий хранения энергии нового поколения."
+      ]
+    ],
+    "opportunities": [
+      [
+        "Совместный синтез и анализ",
+        "Межлабораторный синтез наноматериалов, химическая модификация и развитие аналитических услуг для промышленности."
+      ],
+      [
+        "Дозиметрический мониторинг",
+        "Разработка методик мониторинга установок РФА, РФД и гамма-облучения."
+      ],
+      [
+        "Функциональные прототипы",
+        "Пилотные испытания уплотнителей, виброизоляционных материалов, формованных резиновых образцов, защитных композитов и биополимерных покрытий."
+      ]
+    ]
+  }
+}

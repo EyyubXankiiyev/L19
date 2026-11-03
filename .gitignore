@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+*.pyc
+test-results/
+playwright-report/
+artifacts/
+tmp/
+desktop.ini
